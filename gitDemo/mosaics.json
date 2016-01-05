@@ -16,7 +16,6 @@
         },
         {
             "id": "3",
-            "baseUrl": "http://192.168.100.199/xiaoka",
             "thumbnail": "/iOS/mosaics/mosaic_thumbnail_3.jpg",
             "largeImage": "/iOS/mosaics/mosaic_largeImage_3.jpg",
             "status": "false"
